@@ -21,3 +21,5 @@ out/
 
 # macOS
 .DS_Store
+# Preserve the old frontend Git metadata backup
+frontend/.git-backup/
